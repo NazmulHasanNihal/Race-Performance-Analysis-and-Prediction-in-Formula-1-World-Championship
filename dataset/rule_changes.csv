@@ -1,0 +1,42 @@
+year,rule_change_type,description,expected_impact
+1950,Regulations,Introduction of the Formula 1 World Championship,Standardization of competition
+1952,Technical,Switch from F1 to F2 regulations due to lack of F1 cars,Leveling the competition
+1954,Engine,Introduction of 2.5L engine formula,Increase in power and speed
+1961,Engine,Reduction of engine capacity to 1.5L,Reduction in speeds for safety
+1962,Aerodynamics,Introduction of rear-engined cars,Improved handling and speed
+1966,Engine,Increase of engine capacity to 3.0L,Return to higher speeds and power
+1968,Sponsorship,Introduction of commercial sponsorship liveries,Increase in team funding
+1968,Technical,Introduction of wings for downforce,Increased cornering speed
+1970,Safety,Introduction of full-face helmets,Improved driver safety
+1973,Safety,First use of Safety Car,Increased race safety
+1977,Technical,Introduction of ground effect aerodynamics,Significant increase in cornering speed
+1981,Regulations,Formation of the F1 Constructors' Association (FOCA),Increased team influence on regulations
+1983,Aerodynamics,Ban on ground effect,Reduction in cornering speeds
+1986,Engine,Introduction of fuel limits for turbo engines,Increased focus on fuel efficiency
+1989,Engine,Ban on turbocharged engines,Reduction in engine power and speeds
+1994,Safety,Introduction of pit lane speed limits,Increased safety during pit stops
+1994,Aerodynamics,Ban on active suspension and electronic driver aids,Increase in driver skill requirement
+1998,Aerodynamics,Introduction of narrow track cars and grooved tires,Reduction in cornering speeds
+2000,Engine,Introduction of mandatory onboard cameras,Enhanced viewer experience
+2001,Safety,HANS device mandatory,Increase in driver safety during crashes
+2003,Qualifying,Introduction of single-lap qualifying,Increase in driver focus on single laps
+2004,Engine,Reduction in engine displacement to 3.0L V10,Reduction in engine power
+2005,Tires,Engines to last two races,Increase in reliability demands
+2006,Tires,Return to tire changes during races,Increase in pit stop strategy importance
+2008,Aerodynamics,Ban on traction control,Increase in driver skill emphasis
+2009,Aerodynamics,Introduction of KERS,More strategic overtaking opportunities
+2010,Points,Change to points system (25-18-15...),Increased rewards for top positions
+2011,Tires,Introduction of Pirelli as sole tire supplier,Change in tire strategy
+2011,Aerodynamics,Introduction of DRS,Increased overtaking opportunities
+2013,Engine,Ban on mid-season engine mapping changes,Stability in engine performance
+2014,Engine,Introduction of hybrid V6 turbo engines,Increased focus on fuel efficiency
+2015,Safety,Virtual Safety Car introduced,Improvement in race safety
+2016,Qualifying,Change to elimination-style qualifying,Increase in qualifying strategy complexity
+2017,Aerodynamics,Wider cars and tires,Increased downforce and cornering speeds
+2019,Safety,Front wing and brake duct changes,Decrease in car accidents
+2020,Technical,Introduction of DAS system by Mercedes,Greater tire temperature management
+2021,Aerodynamics,Reduction in downforce on rear floor,Reduction in cornering speeds
+2022,Regulations,Major overhaul of aero regulations,Closer racing and less turbulence
+2023,Engine,Introduction of sustainable fuels,Reduction in carbon emissions
+2024,Tires,Introduction of 18-inch wheels,Improvement in tire durability
+2025,Aerodynamics,Active aero elements allowed,Increase in dynamic racing strategies
