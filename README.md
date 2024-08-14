@@ -101,7 +101,6 @@ This project involves analyzing Formula 1 race data to gain insights, make predi
 
 Create a `requirements.txt` file with the following content:
 
-```plaintext
 # Core Libraries
 pandas==2.0.3
 numpy==1.25.1
@@ -144,7 +143,7 @@ sprint_results.csv
 status.csv
 seasons.csv
 
-Usage
+**Usage**
 
 Load and Preprocess Data: Use the provided code snippets to load and preprocess the data for each task.
 
@@ -152,11 +151,11 @@ Execute Analysis: Run the analysis and visualization code for each task to gain 
 
 Review Results: Examine the generated plots and analysis results to understand performance trends and optimize strategies.
 
-Contributing
+**Contributing**
 
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests.
 
-License
+**License**
 
 1. **Create the file**: Open a text editor or an IDE.
 2. **Copy and paste** the content provided above into the file.
